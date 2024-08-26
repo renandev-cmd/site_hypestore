@@ -14,7 +14,7 @@ section h2 {
 body , input , textarea {
     font-family: "Quicksand", sans-serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: weight;
     font-style: normal;
 }
 
